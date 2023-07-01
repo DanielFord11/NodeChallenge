@@ -1,4 +1,4 @@
-# Ghost Rider
+# README GENERATOR
 
 ## Table of Contents
 - [Description](#description)
