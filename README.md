@@ -13,7 +13,8 @@ This project uses Node Command Prompt to ask the user questions related to their
 Just clone this repo and run "node index"
 
 ## Usage
-Here is a link to a video walk through
+Here is a link to a video walk through https://drive.google.com/file/d/1ho4sQNjsXHZ2oN46Rg7r1XHcVhYu55HY/view
+
 
 ## Questions
 For additional questions, contact me through:
